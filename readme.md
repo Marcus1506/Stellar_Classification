@@ -1,4 +1,4 @@
-# 11) Summary
+# Summary
 The goal of this project was to showcase typical data exploration, data analysis, feature engineering and model finetuning on a simple problem.
 
 It shows beatifully, how physical understanding of the data and the system, from which the data emerged, can help to speed up feature selection, feature engineering as a whole and overall model performance.
