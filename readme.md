@@ -3,7 +3,7 @@ The goal of this project was to showcase typical data exploration, data analysis
 
 It shows beatifully, how physical understanding of the data and the system, from which the data emerged, can help to speed up feature selection, feature engineering as a whole and overall model performance.
 
-**By introducing a feature which was motivated based on pyhsics and removing outliers, I increased the performance of the model from roughly 97.7% to almost 100%.**
+**By introducing a feature which was motivated based on pyhsics and removing outliers, I increased the performance of the initial model iteration from roughly 97.7% to almost 100%.**
 
 This short project showed how phyiscal intuition helps with the following problems:
  - Feature selection: Identifying features which carry relevant and not redundant information of a physical system, therefore choosing features which are likely to be relevant for model performance and reduce noise. If applyable, this methodology, combined with rather brute methods like correlation matrices, should represent a rather save way of selecting important features.
